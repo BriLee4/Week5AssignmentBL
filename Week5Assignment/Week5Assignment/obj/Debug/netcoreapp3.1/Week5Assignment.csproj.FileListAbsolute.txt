@@ -1,0 +1,13 @@
+/Users/brianlee/Projects/Week5Assignment/Week5Assignment/bin/Debug/netcoreapp3.1/Week5Assignment.deps.json
+/Users/brianlee/Projects/Week5Assignment/Week5Assignment/bin/Debug/netcoreapp3.1/Week5Assignment.runtimeconfig.json
+/Users/brianlee/Projects/Week5Assignment/Week5Assignment/bin/Debug/netcoreapp3.1/Week5Assignment.runtimeconfig.dev.json
+/Users/brianlee/Projects/Week5Assignment/Week5Assignment/bin/Debug/netcoreapp3.1/Week5Assignment.dll
+/Users/brianlee/Projects/Week5Assignment/Week5Assignment/bin/Debug/netcoreapp3.1/Week5Assignment.pdb
+/Users/brianlee/Projects/Week5Assignment/Week5Assignment/obj/Debug/netcoreapp3.1/Week5Assignment.csproj.AssemblyReference.cache
+/Users/brianlee/Projects/Week5Assignment/Week5Assignment/obj/Debug/netcoreapp3.1/Week5Assignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brianlee/Projects/Week5Assignment/Week5Assignment/obj/Debug/netcoreapp3.1/Week5Assignment.AssemblyInfoInputs.cache
+/Users/brianlee/Projects/Week5Assignment/Week5Assignment/obj/Debug/netcoreapp3.1/Week5Assignment.AssemblyInfo.cs
+/Users/brianlee/Projects/Week5Assignment/Week5Assignment/obj/Debug/netcoreapp3.1/Week5Assignment.csproj.CoreCompileInputs.cache
+/Users/brianlee/Projects/Week5Assignment/Week5Assignment/obj/Debug/netcoreapp3.1/Week5Assignment.dll
+/Users/brianlee/Projects/Week5Assignment/Week5Assignment/obj/Debug/netcoreapp3.1/Week5Assignment.pdb
+/Users/brianlee/Projects/Week5Assignment/Week5Assignment/obj/Debug/netcoreapp3.1/Week5Assignment.genruntimeconfig.cache
